@@ -106,4 +106,4 @@ This dataset is a part of the [Kaggle Titanic Challenge](https://www.kaggle.com/
 ## 👨‍💻 Author
 
 Aditya Arya  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+[GitHub](https://github.com/getadityaarya) | [LinkedIn](www.linkedin.com/in/aditya-arya-1b710b1a6)
